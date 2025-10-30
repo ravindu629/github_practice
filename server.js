@@ -1,6 +1,6 @@
 let var_1 = 10;
-const var_2 = 20;
-const var_4 = 200;
+const var_2 = 200;
+const var_4 = 300;
 
 function computeSum() {
   let var_3 = 30;
